@@ -23,3 +23,9 @@ elif rating <= 2 and popularity> 60:
 #else the movie rating is 2 or less and the popularity is less than 50 , print "Don't watch it. It is a waste of time"
 else :
     print("Don't watch the "+movie+". It is a waste of time")
+
+'''
+this is the LAB_CONDITIONALS Bonus 
+Feb5, 2025
+By Mohammed Albushaier
+'''
